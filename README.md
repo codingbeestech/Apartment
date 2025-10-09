@@ -7,18 +7,22 @@ Username  : superadmin@superadmin.com
 Password  : 123456	
 
 User Type : Admin
+
 Username  : tony@yahoo.com
 Password  : 123456
 
 User Type : Owner
+
 Username  : john@gmail.com
 Password  : 123456
 
 User Type : Employee
+
 Username  : johnsina@gmail.com	
 Password  : 123456
 
 User Type : Tenant
+
 Username  : jimcary@yahoo.com
 Password  : 123456
 
